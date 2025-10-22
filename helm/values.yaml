@@ -1,0 +1,4 @@
+image:
+  repository: galanglang/demo-app
+  tag: latest
+replicaCount: 1
